@@ -6,7 +6,7 @@ This repository contains my latest resume.
 
 ## 📄 View Resume
 
-[Click here to view my resume](https://github.com/myaccounton/Resume/blob/main/C2K23156_TejasChaudhari_resume2.pdf)
+[Click here to view my resume](https://github.com/myaccounton/Resume/blob/main/C2K23156_TejasChaudhari_resume1.pdf)
 
 ## 📌 About Me
 
